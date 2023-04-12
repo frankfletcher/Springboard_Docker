@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  springboarddocker:
-    image: springboarddocker
+  dsc-docker:
+    image: frankfletcher/dsc-docker
     build:
       context: .
       dockerfile: ./Dockerfile
