@@ -2,7 +2,7 @@
 
 ## Status: Untested on all notebooks
 
-Available on Docker Hub: [https://hub.docker.com/r/frankfletcher/sb-dsc](https://hub.docker.com/r/frankfletcher/sb-dsc)
+Available on Docker Hub: [https://hub.docker.com/r/frankfletcher/dsc-docker](https://hub.docker.com/r/frankfletcher/dsc-docker)
 
 ## Quick Start Instructions
 
